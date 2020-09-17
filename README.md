@@ -18,3 +18,5 @@ I come from a deep rooted advocacy and activism background that started with my 
 # General Government Debt
 General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance. Debt is calculated as the sum of the following liability categories (as applicable): currency and deposits; debt securities, loans; insurance, pensions and standardised guarantee schemes, and other accounts payable. Changes in government debt over time primarily reflect the impact of past government deficits.
 <div class="flourish-embed flourish-chart" data-src="visualisation/3765594" data-url="https://flo.uri.sh/visualisation/3765594/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/3765971" data-url="https://flo.uri.sh/visualisation/3765971/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
