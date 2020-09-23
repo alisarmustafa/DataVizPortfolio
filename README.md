@@ -16,6 +16,7 @@ I come from a deep rooted advocacy and activism background that started with my 
 <iframe src="https://data.oecd.org/chart/65O1" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/65O1" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
 # General Government Debt
+
 General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance. Debt is calculated as the sum of the following liability categories (as applicable): currency and deposits; debt securities, loans; insurance, pensions and standardised guarantee schemes, and other accounts payable. Changes in government debt over time primarily reflect the impact of past government deficits.
 <div class="flourish-embed flourish-chart" data-src="visualisation/3765594" data-url="https://flo.uri.sh/visualisation/3765594/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -30,19 +31,26 @@ For this chart I chose the color scheme to be one color because according to the
 ## Original Chart: 
 
 ![Original Chart](https://user-images.githubusercontent.com/71081084/94054326-84f26580-fda9-11ea-81de-00deab839edf.JPG)
+
+
 Source: Pennsylvania Juvenile Court Judge Commission, 2017 Juvenile Court Annual Report
+
 Link to original chart: https://www.jcjc.pa.gov/Research-Statistics/Disposition%20Reports/2017%20Juvenile%20Court%20Annual%20Report.pdf
 
 I was trying to find data on police in schools and the effect they have on students. I was more specifically looking for data about police presence in Pittsburgh Public Schools but I couldn't find any data to work with. As I was looking through the sources of different ACLU reports I found this report on Pennsylvania Juvenile Court which was close enough to what I'm interested in. I enjoyed reading most of the report because it had very good data but I did find myself wanting to edit most of the charts in it to make it more accessible to the general public. I thought a lot of the charts in the report if put together would make a great comparison. 
+
 ## Wire-Frames:
 
 ![Wireframe-1](https://user-images.githubusercontent.com/71081084/94052305-bf0e3800-fda6-11ea-8625-9c73304ce085.JPG)
+
 First thing I wanted to make sure I do is make the bars horizontal rather than vertical so the labels are aligned. In addition I took out "other" and "unknown because it was not relevant to the analysis. I also limited the rate to up to 60% since there are no higher values than 60%. I also only included % sign next to 0 because according to our book, it de-clutters the map and eradicates repetitiveness. I kept the grid lines for now to give me guidance
 
 ![Wireframe-2](https://user-images.githubusercontent.com/71081084/94052308-c0d7fb80-fda6-11ea-8a7d-93a742259273.JPG)
+
 In my second wireframe I added the data from the same report on population that was transfered to criminal proceedings based on race and ethnicity. I thought that this would make the chart more informative and eye catching. 
 
 ![Wireframe-3](https://user-images.githubusercontent.com/71081084/94052316-c2a1bf00-fda6-11ea-8630-06e9bd746931.jpeg)
+
 In my final wireframe, I changed teh title to eliminate repetitivness. I also erased teh gridlines to make it clearer. 
 
 ## Feedback: 
@@ -52,9 +60,11 @@ In my final wireframe, I changed teh title to eliminate repetitivness. I also er
 Feedback #2: It is a bar chart. It described delinquency allegations and juveniles transferred to criminal proceedings. It is confusing whether the numbers contained in the first bar also represented in the second bar?. Maybe fill in the bars rather than having them as outlines. I assume your point is to highlight the fact that white juveniles are less likely to get jailed, but at first glance all I see is black and white have a long bar and hispanic a short bar. To make the distinction a bit clearer I think it would help to do percentages of the group for each group, rather than percentage of the pop as a whole
 
 ## Thoughts on Feedback: 
+
 It was interesting to see that in Feedback #1 the person actually preferred to have more information on the expense of having it be cluttered and repetitive because it makes it easier for them to read. I think adding the percentages to the end of the bar is a helpful feedback. I also liked teh feedback on filling the bars with color rather than just an outline. I am also learning as I get feedback from people on my visualizations is that different things work for different audience depending on the complexity of the topic. Sometimes repeating and having a more cluttered chart is beneficial if it means the reader who doens't know anything about a complex topic would be able to understand it more. 
 
 ## Final Edited Chart: 
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/3801745" data-url="https://flo.uri.sh/visualisation/3801745/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 For my final chart I included the percentages at the end following the suggestion in feedback #1. I also colored in the chart following the suggestion of Feedback #2. I wanted to make this comparison because I wanted to show that although the white Non-Hispanic population has the biggest rate (43.6%) of delinquency allegations compared to 37.8% allegations for Black Non-Hispanics, White Non-Hispanics have a significantly lower rates (24%) of transfer to criminal proceedings than Black Non-Hispanics which their transfer to criminal proceedings is at 56.7%. It is also worthy to mention that White Non-Hispanics are the only group in the report where their delinquency allegations are significantly higher than their transfer rate to criminal proceedings. Both Black Non-Hispanics and Hispanics have a higher rate of transfering to criminal proceedings thatn their rate of delinquency allegations. For the final version of my chart I decided to place the labels on top of the designated bars because in feedback #2, the person stated that they couldn't figure out if the labels are for both bars or one of the bars. I wanted to improve on the perceptibility of the chart and that is why I included the percentages at the end of each bar and changed the bars to horizontal rather than vertical so the label is straight and easy to read. To improve the aesthetics of the chart I removed the background color and gridlines. 
