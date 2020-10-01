@@ -1,6 +1,7 @@
-#Outline
+# Outline
 
-# Summary: In this project I will be comparing misconduct categories and consequences of misconduct between majority White schools in Allegheny County and majority Black schools in Allegheny County in the 2018-2019 school calendar year.
+# Summary: 
+In this project I will be comparing misconduct categories and consequences of misconduct between majority White schools in Allegheny County and majority Black schools in Allegheny County in the 2018-2019 school calendar year.
 
 # Structure:
 
