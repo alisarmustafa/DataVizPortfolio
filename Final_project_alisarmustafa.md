@@ -38,3 +38,39 @@ My data source is the Pennsylvania Safe Schools Department of Education Reports.
 # Method and Medium:
 
 I will use a combination of Canva, tableau and personal digital illustrations to build my story. I am thinking of using Canva for the structure and color palettes. I will use tableau to build the basic charts and my personal illustrations to create figures of people and drawings as needed. I want to create vector figures of people to make it more personal. I might actually create an ArcGIS map to illustrate some location based data. For example to show how schools are still segregated.
+
+# Part II
+
+![image](https://user-images.githubusercontent.com/71081084/95507244-27e8d900-097f-11eb-8dc9-6e24222df9b1.png)
+
+![image](https://user-images.githubusercontent.com/71081084/95507304-3800b880-097f-11eb-8438-80b86e9b7005.png)
+
+![image](https://user-images.githubusercontent.com/71081084/95507342-4949c500-097f-11eb-9035-dc45c9b280da.png)
+
+![image](https://user-images.githubusercontent.com/71081084/95507386-58307780-097f-11eb-9d96-062f1c63ff64.png)
+
+![image](https://user-images.githubusercontent.com/71081084/95507422-62527600-097f-11eb-91bd-085bcae61048.png)
+
+![image](https://user-images.githubusercontent.com/71081084/95507446-6aaab100-097f-11eb-8677-4af34891fafe.png)
+
+![image](https://user-images.githubusercontent.com/71081084/95507469-77c7a000-097f-11eb-99df-c54e3962e765.png)
+
+![image](https://user-images.githubusercontent.com/71081084/95507490-7f874480-097f-11eb-8105-d2a2a0361ab6.png)
+
+![image](https://user-images.githubusercontent.com/71081084/95507520-89a94300-097f-11eb-9357-8ec9de8a0624.png)
+
+![image](https://user-images.githubusercontent.com/71081084/95507552-9332ab00-097f-11eb-80e1-d1e46af3c09e.png)
+
+![image](https://user-images.githubusercontent.com/71081084/95507580-9d54a980-097f-11eb-9e9d-24cdef4731a1.png)
+
+![image](https://user-images.githubusercontent.com/71081084/95507610-a776a800-097f-11eb-8eb1-21684e3127b3.png)
+
+![image](https://user-images.githubusercontent.com/71081084/95507644-af364c80-097f-11eb-8707-6b2b90ec7b77.png)
+
+![image](https://user-images.githubusercontent.com/71081084/95507669-b8271e00-097f-11eb-9ba7-9cfcf271b339.png)
+
+![image](https://user-images.githubusercontent.com/71081084/95507686-c1b08600-097f-11eb-8d44-1ed5a50dc003.png)
+
+![image](https://user-images.githubusercontent.com/71081084/95507754-e147ae80-097f-11eb-9a3c-6acafa23b2fd.png)
+
+![image](https://user-images.githubusercontent.com/71081084/95507774-ead11680-097f-11eb-8395-16a58f7117ed.png)
