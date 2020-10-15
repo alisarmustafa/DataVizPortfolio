@@ -166,3 +166,5 @@ Audience is different depending on the background of the person giving feedback
 Feedback #2 is from someone who has heavy experience in making and reading chart so their feedback was very different since they could understand it more than the rest which made me realize that my charts are not very accessible to those not familiar with reading charts and not familiar with the subject
 I worked on decluttering my charts as much as I can after the feedback was given to make it easier to read
 My favorite piece of feedback is putting schools who have expulsions in a different graph rather than including ALL schools since only 8 schools had expulsions. This made my graphs clearer. 
+
+[Back to Portfolio Page](/README.md)
