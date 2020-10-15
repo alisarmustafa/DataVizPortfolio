@@ -169,6 +169,7 @@ My favorite piece of feedback is putting schools who have expulsions in a differ
 
 # Part III:
 
+
 ## Intended Audience
 
 When I first started doing this project I wanted to do it solely on arrest data by race and the presence of local law enforcement so it was a bit more detailed than the outcome. Therefore, my audience was going to be policy makers and school officials that are working on police reform at public schools. However, since the report on police presence and arrest data by race will not come out until later this year I decided to do it on expulsion and suspension rates by race. I started talking to someone that works at Pittsburgh Public schools in addition to a student that works with the Data for Black Lives chapter at CMU. We will be presenting this data to a group of higher education professionals in Pittsburgh next week. We will also be presenting this at a school’s equity coalition meeting this month. 
