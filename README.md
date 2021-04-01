@@ -70,3 +70,12 @@ It was interesting to see that in Feedback #1 the person actually preferred to h
 For my final chart I included the percentages at the end following the suggestion in feedback #1. I also colored in the chart following the suggestion of Feedback #2. I wanted to make this comparison because I wanted to show that although the white Non-Hispanic population has the biggest rate (43.6%) of delinquency allegations compared to 37.8% allegations for Black Non-Hispanics, White Non-Hispanics have a significantly lower rates (24%) of transfer to criminal proceedings than Black Non-Hispanics which their transfer to criminal proceedings is at 56.7%. It is also worthy to mention that White Non-Hispanics are the only group in the report where their delinquency allegations are significantly higher than their transfer rate to criminal proceedings. Both Black Non-Hispanics and Hispanics have a higher rate of transfering to criminal proceedings thatn their rate of delinquency allegations. For the final version of my chart I decided to place the labels on top of the designated bars because in feedback #2, the person stated that they couldn't figure out if the labels are for both bars or one of the bars. I wanted to improve on the perceptibility of the chart and that is why I included the percentages at the end of each bar and changed the bars to horizontal rather than vertical so the label is straight and easy to read. To improve the aesthetics of the chart I removed the background color and gridlines. 
 
 [Link to final project](/Final_project_alisarmustafa.md)
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEY-Z07xqQ&#x2F;view?embed">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEY-Z07xqQ&#x2F;view?utm_content=DAEY-Z07xqQ&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Copy of Systems Project</a> by Alisar Mustafa
