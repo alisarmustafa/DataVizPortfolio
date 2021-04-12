@@ -1,5 +1,6 @@
-# alisarmustafa-portfolio
-My portfolio page.
+Live Page: https://alisarmustafa.github.io/Portfolio/
+
+## Alisar Mustafa
 
 # About me
 Hello everyone!! My name is Alisar Mustafa, my pronouns are she/her or they/them. I am in the MSPPM Flagship Program. I was born and raised in Syria and moved to Austria at the age of 14 where I lived for two years before moving to Berkeley, California at the age of 16. I went to San Francisco State University where I majored in Political Science and minored in Middle East and Islamic Studies. I am interested in learning how to bridge the policy and activism worlds since they are very disconnected from eachother. I believe learning data visualization is a helpful tool to make policy more accessible to people. 
